@@ -87,7 +87,7 @@ That part still requires Brandon. The toolkit covers most teams, most of the tim
 
 ### Option 1: Install in Claude (recommended)
 
-1. Download [`project-forward.skill`](./project-forward.skill) (or grab the latest from [Releases](../../releases))
+1. Download the **project-forward.skill** file from [Releases](../../releases))
 2. In Claude → **Settings → Capabilities → Skills → Upload**
 3. Select the downloaded file. Claude will install the skill and have it available for all future conversations.
 
